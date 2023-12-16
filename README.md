@@ -1,6 +1,6 @@
 # My Personal Page
 
-Description: [This is a summary of my personal page which includes my Linkedin, resume, and recent prohjects]
+Description: This is a summary of my personal page which includes my Linkedin, resume, and recent prohjects
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ Description: [This is a summary of my personal page which includes my Linkedin, 
 - [Contact](#contact)
 
 ## Introduction
-[Explain the purpose of your project. What does it do? Why did you create it?]
+The purpose of this is to highligh many of my recent project within same page
 
 ## Technologies Used
 - Java
@@ -38,6 +38,6 @@ Description: [This is a summary of my personal page which includes my Linkedin, 
 [Specify the license for your project]
 
 ## Contact
-- GitHub: [Your GitHub profile link]
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile link]
+- GitHub: https://shamsudeen.github.io/
+- Email: shamsubaba@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shamsu-baba-alwaiz/

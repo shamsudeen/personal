@@ -13,7 +13,7 @@ Description: This is a summary of my personal page which includes my Linkedin, r
 - [Contact](#contact)
 
 ## Introduction
-The purpose of this is to highligh many of my recent project within same page
+The purpose of this is to highlight many of my recent project within same page
 
 ## Technologies Used
 - Java
